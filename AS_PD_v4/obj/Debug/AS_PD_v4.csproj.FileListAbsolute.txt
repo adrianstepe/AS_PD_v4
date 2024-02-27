@@ -1,0 +1,10 @@
+Z:\programmesana desktop\AS_PD_v4\AS_PD_v4\bin\Debug\AS_PD_v4.exe.config
+Z:\programmesana desktop\AS_PD_v4\AS_PD_v4\bin\Debug\AS_PD_v4.exe
+Z:\programmesana desktop\AS_PD_v4\AS_PD_v4\bin\Debug\AS_PD_v4.pdb
+Z:\programmesana desktop\AS_PD_v4\AS_PD_v4\obj\Debug\AS_PD_v4.csprojAssemblyReference.cache
+Z:\programmesana desktop\AS_PD_v4\AS_PD_v4\obj\Debug\AS_PD_v4.Form1.resources
+Z:\programmesana desktop\AS_PD_v4\AS_PD_v4\obj\Debug\AS_PD_v4.Properties.Resources.resources
+Z:\programmesana desktop\AS_PD_v4\AS_PD_v4\obj\Debug\AS_PD_v4.csproj.GenerateResource.cache
+Z:\programmesana desktop\AS_PD_v4\AS_PD_v4\obj\Debug\AS_PD_v4.csproj.CoreCompileInputs.cache
+Z:\programmesana desktop\AS_PD_v4\AS_PD_v4\obj\Debug\AS_PD_v4.exe
+Z:\programmesana desktop\AS_PD_v4\AS_PD_v4\obj\Debug\AS_PD_v4.pdb
