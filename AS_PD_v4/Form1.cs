@@ -44,5 +44,22 @@ namespace AS_PD_v4
             double izdevumi1 = viens + divi + trīs + Četri;
             textBox9.Text = izdevumi1 + " EUR";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            double ienākumi = Convert.ToDouble(textBox1.Text);
+            double izdevumi = Convert.ToDouble(textBox2.Text);
+
+            double viens = Convert.ToDouble(textBox4.Text);
+            double divi = Convert.ToDouble(textBox5.Text);
+            double trīs = Convert.ToDouble(textBox6.Text);
+            double Četri = Convert.ToDouble(textBox7.Text);
+
+            double izdevumi1 = viens + divi + trīs + Četri;
+            double kop = ienākumi + izdevumi;
+
+            double budžeta_atlikums = kop - izdevumi1;
+            textBox8.Text = budžeta_atlikums + " EUR";
+        }
     }
 }
